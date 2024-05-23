@@ -272,6 +272,7 @@ section {
 }
 
 .banner-container .banner .content .btn {
+  display: none;
   padding: 0.8rem 2.5rem;
 }
 
