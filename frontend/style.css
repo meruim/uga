@@ -121,6 +121,10 @@ section {
   margin: 0 1rem;
 }
 
+.header .navbar a.active {
+  border-bottom: 3px black solid;
+}
+
 .header .navbar a:hover {
   color: #222;
 }
